@@ -16,9 +16,12 @@ Undo code for uncoomitted file changes
 Undo (and commit chhanges) code for comitted file changes
 ---------------------------------------------------------
 
-========================================
-Tip: use [git -am""] to skip add . step
-========================================
+
+**Tip:** 
+```
+use [git -am""] to skip add . step
+```
+
 
 ```
 	git log
